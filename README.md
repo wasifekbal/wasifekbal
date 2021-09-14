@@ -2,15 +2,15 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 
-<!-- - 🌱 I’m currently learning ... -->
+- 🌱 I’m currently learning ... Reactjs
 
-- 🤔 I’m looking for help with ... X86-64 assembly.
+<!-- - 🤔 I’m looking for help with ... X86-64 assembly. -->
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 
 <!-- - 💬 About me ... 👇👇👇👇👇👇 -->
 
-- 📫 reach me: ... [My Portfolio](https://www.wasifekbal.ml)
+- 📫 reach me: ... [My Portfolio](https://www.wasifekbal.ml) (last updated long time ago)
 
 <!-- - ⚡😁 Fun fact: ... -->
 
