@@ -9,7 +9,7 @@
 - I know machine learning and made more the three projects hosted on heroku.
 - I know HTML, CSS, Bootstrap, Js, jQuery. made color guessing game, calculator, my portfolio website (not published yet).
 - Currently learning Reactjs framework and made few projects such as text utility app, NewsOdyssey news app.
-- I am also interested in Cybersecurity and gained some hands-on experience from tryhackme.com [My tryhackme profile](https://tryhackme.com/p/WasifEkbal)
+- I am also interested in Cybersecurity and gained some hands-on experience from tryhackme.com <a target="_blank" href="https://tryhackme.com/p/WasifEkbal">[My profile]</a>
 
 - 💬 About me ... 👇👇👇👇👇👇
 
