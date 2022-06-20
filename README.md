@@ -1,5 +1,5 @@
 <div align="center">
- <h1> Hi, I'm Wasif <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">Welcome to my GitHub Profile! </h1>
+ <h1> Hi, I'm Wasif <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="45px">Welcome to my GitHub Profile! </h1>
 </div>
 
 <!-- - 🔭 I’m currently working on ... notebook web app by using reactjs. -->
@@ -29,4 +29,4 @@
 
 <br>
 
-![Wasif's github stats](https://github-readme-stats.vercel.app/api?username=wasifekbal&count_private=true&show_icons=true&theme=dark)
+![Wasif's github stats](https://github-readme-stats.vercel.app/api?username=wasifekbal&count_private=true&show_icons=true&theme=radical)
