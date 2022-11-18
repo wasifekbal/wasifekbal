@@ -52,3 +52,5 @@
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+[![@wasifekbal's Holopin board](https://holopin.me/wasifekbal)](https://holopin.io/@wasifekbal)
