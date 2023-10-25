@@ -17,7 +17,7 @@
 - Have some hands-on experience in Cybersecurity from [TryHackMe](https://tryhackme.com/p/WasifEkbal).
 - Also have knowledge of machine learning and data analysis stuffs.
 - Email: [wasifekbal27@gmail.com](mailto:wasifekbal27@gmail.com)
-- Website: [wasifekbal.ml](https://www.wasifekbal.ml)
+- Website: [wasifekbal.in](https://wasifekbal.in)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
